@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#r1{
+  
+    background: #bdc3c7;
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); 
+   height: 630px;
+
+    /* width: 1550px; */ 
+ }
+ #r2{
+  background: #bdc3c7;
+    background: -webkit-linear-gradient(to left, #52a1f0, #bdc3c7); 
+    background: linear-gradient(to left, #52a1f0, #bdc7c1);
+ }
+ .image-item{
+  border: solid 2px white;
+  border-radius: 10px;
+ }
+#c1{
+  background-color: white;
+  border-radius: 5px;
+  /* width: 550px; */
+  /* margin:  auto; */
+  
+  /* height: 600px; */
+}
+.col-lg-8 m-auto d-block{
+  text-align: left;
+    padding: 20px 10px;
+}
+.form-group > *{
+  padding: 5px;
+}
+.form__label{
+  width: 40%;
+}
+
+.form_input{
+  width: 60%;
+}
+.footer{
+  text-align: center;
+} 
+.bg-white text-dark row col-3{
+  font-family: 'Courier New', Courier, monospace;
+}
+.card-img-top{
+  
+  width: 310px;
+}
+.content-fluid{
+  background-color: white;
+}
+#foot{
+  background: #333435;
+    background: -webkit-linear-gradient(to right, #10161d, #333435); 
+    background: linear-gradient(to right, #10161d, #333435);  
+}
+#s1{
+  text-decoration: none;
+  list-style: none;
+  margin: 7px;
+}
+li {
+  list-style: none;
+  margin: 5px;
+  color: black;
+  text-decoration: none;
+}
+b{
+  color: white;
+  text-decoration: none;
+  
+}
+a{
+  text-decoration: none;
+}
+#f4{
+  margin-top: 50px;
+}
+#a1{
+  margin-left: 20px;
+}
+svg{
+  color: aliceblue;
+}
+.bg{
+  background: #57a0f3;
+    background: -webkit-linear-gradient(to right, #57a0f3, #02264b); 
+    background: linear-gradient(to right, #57a0f3, #02264b);  
+    /* height: 550px; */
+    
+}
+/* .img{
+  margin-top: 25px;
+  height: 500px;
+  width: 1320px;
+  
+
+} */
+
+#d1{
+  background-color: #f7e6da;
+  
+    background: -webkit-linear-gradient(to right, #f7e6da, #ec6307); 
+    background: linear-gradient(to right, #f7e6da, #ec6307);
+  
+}
+
+#l1{
+  background-color: darkgray;
+  
+  
+}
+#f1{
+  background-color: darkgray;
+}
+
+#b1{
+  background: #57a0f3;
+    background: -webkit-linear-gradient(to right, #57a0f3, #02264b); 
+    background: linear-gradient(to right, #57a0f3, #02264b);  
+    /* height: 550px; */
+}
+#h2{
+  font-family:'Times New Roman', Times, serif;
+}
+#img1{
+  height: auto;
+  width: 100%;
+}
+.gmap_iframe{
+  height: 420px;
+ 
+}
