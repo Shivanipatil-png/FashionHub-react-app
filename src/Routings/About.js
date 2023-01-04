@@ -8,7 +8,7 @@ export const About = () => {
   return (
     <>
 
-      <Navbar />
+      {/* <Navbar /> */}
       <div className='container-fluid' id='b1'>
         <div className='bg bg-expand-lg'>
           <div className='row  d-flex  '>
@@ -54,7 +54,7 @@ export const About = () => {
         </div>
 
       </div>
-      <Footer/>
+      {/* <Footer/> */}
       
       
 

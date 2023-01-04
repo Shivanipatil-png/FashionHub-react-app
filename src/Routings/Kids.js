@@ -8,7 +8,7 @@ export const Kids = () => {
  
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       
       <div className='bg bg-expand-lg'>
              <div className='row col-12 d-flex justify-content-center'>
@@ -16,7 +16,7 @@ export const Kids = () => {
                 </div>
             </div>
       <Image/>
-      <Footer/>
+      {/* <Footer/> */}
       
     </>
   )

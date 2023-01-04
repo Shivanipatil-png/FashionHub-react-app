@@ -9,6 +9,8 @@ import { Kids } from './Routings/Kids';
 import { Women } from './Routings/Women';
 import { Men } from './Routings/Men';
 import {Order} from './Routings/Order'
+import { Navbar } from './Routings/Navbar';
+import { Footer } from './Footer';
 
 
 
@@ -33,15 +35,15 @@ function App() {
 
     
 
-
+      <Navbar/>
 
       <Routes>
       
 
 
-        <Route path='/' element={<Register />}  ></Route>
+        {/* <Route path='/' element={<Register />}  ></Route> */}
 
-
+        <Route path='*' element= {<h2>Page Not Found</h2>}></Route>
 
         <Route path='/home' element={<Home />}></Route>
 
@@ -56,6 +58,7 @@ function App() {
         <Route path='/1' element={<Order/>}></Route> 
 
      </Routes>
+     <Footer/>
 
     </div>
   );

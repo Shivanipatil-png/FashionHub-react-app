@@ -16,14 +16,14 @@ export const Women = () => {
     return (
         <>
 
-          <Navbar/>
+          {/* <Navbar/> */}
           <div className='bg bg-expand-lg'>
              <div className='row col-12 d-flex justify-content-center'>
                 <img src='https://img.freepik.com/free-photo/two-beautiful-women-shopping-town_1303-16426.jpg?w=2000' className='img' ></img>
                 </div>
             </div>
           <ImageWomen/>
-          <Footer/>
+          {/* <Footer/> */}
 
 
         </>
