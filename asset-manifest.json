@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FashionHub-react-app/static/css/main.47d566f4.css",
+    "main.js": "/FashionHub-react-app/static/js/main.0ef2bc91.js",
+    "static/js/787.cdcdca4b.chunk.js": "/FashionHub-react-app/static/js/787.cdcdca4b.chunk.js",
+    "static/media/logo.svg": "/FashionHub-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FashionHub-react-app/index.html",
+    "main.47d566f4.css.map": "/FashionHub-react-app/static/css/main.47d566f4.css.map",
+    "main.0ef2bc91.js.map": "/FashionHub-react-app/static/js/main.0ef2bc91.js.map",
+    "787.cdcdca4b.chunk.js.map": "/FashionHub-react-app/static/js/787.cdcdca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d566f4.css",
+    "static/js/main.0ef2bc91.js"
+  ]
+}
